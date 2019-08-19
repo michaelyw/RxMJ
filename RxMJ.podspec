@@ -13,6 +13,6 @@ MJRefresh with RxCocoa
   s.source_files = 'RxMJ/Classes/**/*'
   s.swift_version = '5.0'
   s.frameworks = 'UIKit'
-  s.dependency 'MJRefresh', '~> 3.2.0'
-  s.dependency 'RxCocoa', '~> 4.5.0'
+  s.dependency 'MJRefresh'
+  s.dependency 'RxCocoa', '~> 5.0'
 end
